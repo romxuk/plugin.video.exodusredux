@@ -1,0 +1,1 @@
+extract and overwite the folder in this zip https://github.com/romxuk/script.module.openscrapers/raw/main/script.module.openscrapers.zip and it will re enable sources like Gcloud and doodstream among others
